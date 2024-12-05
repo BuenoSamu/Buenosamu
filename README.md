@@ -1,7 +1,7 @@
 ## Olá, eu sou o Buenosamu👋
 
 - 🔭 Conhecimento principal como back-end, porém sempre disposto a novos desafios
-- 🌱 Estudando Kotlin e React
+- 🌱 Estudando Kotlin, React e outras tecnologias 
 - 📫 Contate-me no email: samuelbueno467@gmail.com
 
 ## Tecnologias que mais uso
