@@ -1,4 +1,4 @@
-## Olá, eu sou o Buenosamu👋
+## Buenosamu
 
 - 🔭 Conhecimento principal como back-end, porém sempre disposto a novos desafios
 - 🌱 Estudando Kotlin, React e outras tecnologias 
