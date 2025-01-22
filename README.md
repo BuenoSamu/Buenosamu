@@ -7,6 +7,13 @@
 ## Tecnologias que mais uso
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buenosamu&layout=compact)
+<img
+aling="left"
+alt="GitHub stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=BuenoSamu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/> 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="5%" />
