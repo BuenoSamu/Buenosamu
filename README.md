@@ -1,12 +1,36 @@
-## Buenosamu
+# 🖥️Samuel Bueno
+**Desenvolvedor**
 
-- 🔭 Conhecimento principal como back-end, porém sempre disposto a novos desafios
-- 🌱 Estudando Kotlin, React e outras tecnologias 
+
+ Sou um desenvolvedor back-end
+ apaixonado por tecnologia e 
+ pela criação de soluções inovadoras. 
+ Formado em Desenvolvimento de Sistemas pela
+ ETEC João Belarmino, tenho experiência em linguagens como
+ Kotlin, PHP, JavaScript, HTML e CSS, além de frameworks como
+ Firebase e React. Entusiasta de novos desafios, busco sempre diversificar 
+ meu portfólio e desenvolver projetos que unam criatividade,
+ funcionalidade e impacto.
+
+- 📖 Estudante de tecnologia
 - 📫 Contate-me no email: samuelbueno467@gmail.com
 
-## Tecnologias que mais uso
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buenosamu&layout=compact)
+---
+
+### 🤖 Linguagens e tecnologias
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="5%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="5%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="5%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="5%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="5%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="5%" />      
+</p>
+
+---
+
+### 📈 Estatisticas
+
 <img
 aling="left"
 alt="GitHub stats"
@@ -15,15 +39,13 @@ style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=BuenoSamu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 /> 
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="5%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="5%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="5%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="5%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="5%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="5%" />
-          
-</p>
+<img
+aling="left"
+alt="GitHub stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuenoSamu&theme=tokyonight&layout=compact"
+/> 
 
 ## Outras redes que você pode me encontrar
 <p>
