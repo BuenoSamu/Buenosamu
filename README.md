@@ -30,19 +30,22 @@
 ---
 
 ### 📈 Estatisticas
-
-<div style="display: flex; gap: 10px;">
-  <img
+<p>
+   <img
+    aling="left"
     alt="GitHub stats"
     height="200"
+    style="padding-right=10px;"
     src="https://github-readme-stats.vercel.app/api?username=BuenoSamu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   <img
+    aling="left"
     alt="GitHub top languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuenoSamu&theme=tokyonight&layout=compact"
+    style="padding-right=10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuenoSamu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
   />
-</div>
+</p>
 
 ## Outras redes que você pode me encontrar
 <p>
