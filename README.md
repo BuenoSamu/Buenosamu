@@ -1,8 +1,8 @@
 # 🖥️ Samuel Bueno
 **Desenvolvedor Back-End**
 
-Sou um desenvolvedor back-end apaixonado por tecnologia e pela criação de soluções inovadoras.  
-Formado em **Desenvolvimento de Sistemas** pela **ETEC João Belarmino**, tenho experiência em linguagens como **Kotlin**, **C#**, **PHP**, **JavaScript**, **HTML** e **CSS**, além de frameworks como **Firebase** e **React**.  
+Sou um **desenvolvedor back-end** apaixonado por tecnologia e pela criação de soluções inovadoras.
+Formado em **Desenvolvimento de Sistemas** pela **ETEC João Belarmino**, tenho experiência em linguagens como **Kotlin**, **C#**, **PHP**, **JavaScript**, **HTML** e **CSS**, além de frameworks como **Firebase** e **React**. Também desenvolvo **APIs RESTful** com foco em aplicações mobile, garantindo integração eficiente entre front-end e back-end.
 
 Entusiasta de novos desafios, busco sempre diversificar meu portfólio e desenvolver projetos que unam criatividade, funcionalidade e impacto.
 
