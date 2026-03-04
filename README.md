@@ -1,10 +1,12 @@
 # 🖥️ Samuel Bueno
-**Desenvolvedor Back-End**
+**Desenvolvedor Full Stack**
 
-Sou um **desenvolvedor back-end** apaixonado por tecnologia e pela criação de soluções inovadoras.
-Formado em **Desenvolvimento de Sistemas** pela **ETEC João Belarmino**, tenho experiência em linguagens como **Kotlin**, **C#**, **PHP**, **JavaScript**, **HTML** e **CSS**, além de frameworks como **Firebase** e **React**. Também desenvolvo **APIs RESTful** com foco em aplicações mobile, garantindo integração eficiente entre front-end e back-end.
+Sou **desenvolvedor full stack** apaixonado por tecnologia e pela criação de soluções inovadoras.
 
-Entusiasta de novos desafios, busco sempre diversificar meu portfólio e desenvolver projetos que unam criatividade, funcionalidade e impacto.
+Formado em **Desenvolvimento de Sistemas** pela ETEC João Belarmino (2022–2024), atualmente curso **Bacharelado em Sistemas de Informação** na PUC-Campinas, com previsão de conclusão em 2029.
+
+Atuo como **desenvolvedor full stack**, trabalhando com **Kotlin, C#, PHP e JavaScript**, além de **HTML e CSS**. Tenho experiência com **Firebase, React, TS e NestJS**, desenvolvendo **APIs RESTful** e integrações eficientes entre aplicações mobile e web, sempre com foco em organização, performance e escalabilidade.
+
 
 - 📖 Estudante de tecnologia  
 - 📫 Contate-me no e-mail: **samuelbueno467@gmail.com**
@@ -13,13 +15,15 @@ Entusiasta de novos desafios, busco sempre diversificar meu portfólio e desenvo
 
 ### 🤖 Linguagens e Tecnologias
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="5%" alt="Kotlin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="5%" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="5%" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="5%" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="5%" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="5%" alt="Firebase" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="5%" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="5%" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="5%" alt="Firebase" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 </p>
 
 ---
