@@ -28,19 +28,6 @@ Atuo como **desenvolvedor full stack**, trabalhando com **Kotlin, C#, PHP e Java
           
 </p>
 
----
-
-### 📈 Estatísticas
-<div style="display: flex; gap: 10px;">
-  <img
-    alt="GitHub top languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuenoSamu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
-  />
-</div>
-
----
-
 ### 🌐 Outras Redes
 <p>
   <a href="mailto:samuelbueno467@gmail.com">
